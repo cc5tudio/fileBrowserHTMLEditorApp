@@ -1,0 +1,42 @@
+[
+  {"label":"Mortgagee Letters - 2017",
+    "subsection":[
+      {"label":"ML 2017-15: Extension of Initial Disaster Foreclosure Moratorium for Properties in Specified Areas Impacted by Hurricanes Harvey, Irma, and Maria ",
+        "path":"https://www.hud.gov/sites/dfiles/OCHCO/documents/17-15ml.pdf"},
+      {"label":"ML 2017-14: Annual Revisions to Base City High Cost Percentage, High Cost Area and Per Unit Substantial Rehabilitation Threshold for 2017",
+        "path":"/letters/2017/ML-2017-14"},
+      {"label":"ML 2017-13: Extension of Temporary Approval Provisions for the Federal Housing Administration (FHA) Condominium Project Approval Process (8/30/17",
+        "path":"/letters/2017/ML-2017-13"}
+    ]
+  },
+
+  {"label":"Mortgagee Letters - 2016",
+    "subsection":[
+      {"label":"", "path":""}
+    ] },
+  {"label": "Mortgagee Letters - 2015",
+    "subsection":[
+      {"label":"", "path":""}
+    ] },
+  {"label": "Mortgagee Letters - 2014",
+    "subsection":[
+      {"label":"", "path":""}
+    ] },
+  {"label": "Mortgagee Letters - 2013",
+    "subsection":[{"label":"", "path":""}]},
+
+  {"label": "Mortgagee Letters - 2012",
+    "subsection":[
+      {"label":"", "path":""}
+      ]},
+  {"label": "Mortgagee Letters - 2011",
+    "subsection":[
+      {"label":"", "path":""}
+    ]},
+  {"label": "Mortgagee Letters - 2010",
+    "subsection":[
+      {"label":"", "path":""}] },
+  {"label": "Mortgagee Letters - 2009 and Prior",
+    "subsection":[
+      {"label":"", "path":""}] }
+]

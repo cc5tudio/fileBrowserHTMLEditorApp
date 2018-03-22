@@ -1,0 +1,277 @@
+[
+  {
+    "description":"<p><em>Effective for case numbers assigned on or after September 14, 2015</em></p><p>The appraisal process provides the Mortgagee with necessary information to determine if a property meets the minimum requirements and eligibility standards for a Federal Housing Administration (FHA)-insured Mortgage and will serve as adequate security for a specific FHA-insured Mortgage. Mortgagees bear primary responsibility for determining eligibility and the sufficiency of collateral; however, the Appraiser provides preliminary verification that the Property Acceptability Criteria have been met and an appraised value for the property.</p><p>Property refers to the real estate entity that will serve as adequate security for a specific FHA-insured Mortgage.</p><p>The requirements in this section of the FHA Single Family Housing Policy Handbook (SF Handbook) contain the Property Acceptability Criteria for FHA mortgage insurance, which include Minimum Property Requirements (MPR) and Minimum Property Standards (MPS), and include by reference, associated rules and regulations. The criteria apply to residential Properties containing one- to four-family housing units, individual condominium units, and Manufactured Housing units, and related property improvements and the sites on which they are located, as well as the immediate environment for the dwelling, including streets and other services or facilities associated with the site. Manufactured Housing Properties have additional requirements contained in the Property Acceptability Criteria for Manufactured Housing for Title II Insured Mortgages section. This section also provides requirements for Appraisers in establishing a credible appraised value for a Property that is to serve as security for an FHA-insured Mortgage.</p>",
+    "label": "1. Commencement of the Appraisal",
+    "subsection": [
+      {
+        "label": "a. Information Required before Commencement of Appr",
+        "path": "/II/D/1/a"
+      },
+      {
+        "label": "b. Additional Information Required Before Commencem",
+        "path": "/II/D/1/b"
+      }
+    ]
+  },
+  {
+    "label": "2. General Appraiser Requirements",
+    "path": "/II/D/2",
+    "article": "<p>The Appraiser must follow FHA guidance and comply with the Uniform Standards of Professional Appraisal Practice (USPAP) when completing appraisals of Property used as security for FHA-insured Mortgages.</p><p>When performing an appraisal, the Appraiser must review and analyze the following:</p><ul><li>the land lease, if applicable;</li><li>surveys or legal descriptions, if available; and</li><li>any other legal documents contained in the loan file</li><li>and report the results of that analysis in the appraisal report.</li></ul><h3>Sales Transaction or New Construction</h3><p>When performing an appraisal for a sales transaction or on New Construction, the Appraiser must also review and analyze the following:</p><ul><li>the complete copy of the executed sales contract for the subject; and</li><li>documents related to New Construction, including plans, specifications, and any exhibits provided that will assist the Appraiser in determining what is to be built, or, if now Under Construction, what will be built when finished;</li><li>and report the results of that analysis in the appraisal report.</li></ul>",
+    "subsection": []
+  },
+  {
+    "label": "3. Acceptable Appraisal Reporting Forms and Protocols",
+    "subsection": [
+      {
+        "label": "a. Additional Documentation Required for Appraisals of New Construction",
+        "path": "/II/D/3/a"
+      },
+      {
+        "label": "b. Application of Minimum Property Requirements and Minimum Property Standards by Construction",
+        "path": "/II/D/3/b"
+      },
+      {
+        "label": "c. Minimum property Requirements and Minimum Property Standards",
+        "path": "/II/D/3/c"
+      },
+      {
+        "label": "d. Gross Living Area",
+        "path": "/II/D/3/d"
+      },
+      {
+        "label": "e. Appliances",
+        "path": "/II/D/3/e"
+      },
+      {
+        "label": "f. Swimming Pools",
+        "path": "/II/D/3/f"
+      },
+      {
+        "label": "g. Mechanical Components and Utilities",
+        "path": "/II/D/3/g"
+      },
+      {
+        "label": "h. Roof Covering",
+        "path": "/II/D/3/h"
+      },
+      {
+        "label": "i. Structural Conditions",
+        "path": "/II/D/3/i"
+      },
+      {
+        "label": "j. Defective Paint",
+        "path": "/II/D/3/j"
+      },
+      {
+        "label": "k. Attic Observation Requirements",
+        "path": "/II/D/3/k"
+      },
+      {
+        "label": "l. Foundation",
+        "path": "/II/D/3/l"
+      },
+      {
+        "label": "m. Crawl Space Observation Requirements",
+        "path": "/II/D/3/m"
+      },
+      {
+        "label": "n. Environmental and Safety Hazards",
+        "path": "/II/D/3/n"
+      },
+      {
+        "label": "o. Repair Requirements",
+        "path": "/II/D/3/o"
+      },
+      {
+        "label": "p. Utility Services",
+        "path": "/II/D/3/p"
+      },
+      {
+        "label": "q.  Onsite Sewage Disposal Systems",
+        "path": "/II/D/3/q"
+      }
+    ]
+  },
+  {
+    "label": "4. Valuation and Reporting Protocols",
+    "subsection": [
+      {
+        "label": "a. Photograph, Exhibits and Map Requirements",
+        "path":"/II/D/4/a"
+      },
+      {
+        "label": "b. Intended Use and Intended Users of Appraisal",
+        "path":"/II/D/4/b"
+      },
+      {
+        "label": "c. Development of the Market Value",
+        "path":"/II/D/4/c"
+      }
+    ]
+  },
+  {
+    "label": "5. Property Acceptability Criteria for Manufactured Housing for Title II Insured Mortgages",
+    "subsection": [
+      {
+        "label": "a. Definitions",
+        "path":"/II/D/5/a"
+      },
+      {
+        "label": "b. Standard",
+        "path":"/II/D/5/b"
+      },
+      {
+        "label": "c. Foundation Systems",
+        "path":"/II/D/5/c"
+      },
+      {
+        "label": "d. Running Gear",
+        "path":"/II/D/5/d"
+      },
+      {
+        "label": "e. Perimeter Enclosure",
+        "path":"/II/D/5/e"
+      },
+      {
+        "label": "f. HUD Certification Label",
+        "path":"/II/D/5/f"
+      },
+      {
+        "label": "g. Data Plate",
+        "path":"/II/D/5/g"
+      },
+      {
+        "label": "h. Flood Zone",
+        "path":"/II/D/5/h"
+      },
+      {
+        "label": "i. Additions to Manufactured Housing",
+        "path":"/II/D/5/i"
+      },
+      {
+        "label": "j. Measurement Protocols",
+        "path":"/II/D/5/j"
+      },
+      {
+        "label": "k. Sales Comparison Approach for Manufactured Housing",
+        "path":"/II/D/5/k"
+      },
+      {
+        "label": "l. Estimate of Cost New for Manufactured Housing",
+        "path":"/II/D/5/l"
+      }
+    ]
+  },
+  {
+    "label": "6. Condominium Projects",
+    "subsection": [
+      {
+        "label": "a. Definition",
+        "path": "/II/D/6/a"
+      },
+      {
+        "label": "b. Standard",
+        "path": "/II/D/6/b"
+      },
+      {
+        "label": "c. Required Analysis and Reporting",
+        "path": "/II/D/6/c"
+      },
+      {
+        "label": "d. Site Condominium",
+        "path": "/II/D/6/d"
+      },
+      {
+        "label": "e. Manufactured Housing Condominium Projects",
+        "path": "/II/D/6/e"
+      }
+    ]
+  },
+  {
+    "label": "7. Valuation of Leasehold Interests",
+    "subsection": [
+      {
+        "label": "a. Definition",
+        "path": "/II/D/7/a"
+      },
+      {
+        "label": "b. Standard",
+        "path": "/II/D/7/b"
+      },
+      {
+        "label": "c. Required Analysis and Reporting",
+        "path": "/II/D/7/c"
+      },
+      {
+        "label": "d. Mixed Use One- to Four-Unit Single Family Pro",
+        "path": "/II/D/7/d"
+      }
+    ]
+  },
+  {
+    "label": "8. Additional Appraisal Requirements for 223(e) Mortgages",
+    "article": "<p>Section 223(e) is a mortgage insurance program for Properties located in older, declining urban areas. The program allows for the acquisition, repair, and/or renovation or construction of a residential Property.</p><p>The Appraiser must provide a remaining physical life in addition to the remaining economic life if the Mortgagee orders an appraisal for a Property to be insured under the 223(e) program.</p>",
+    "subsection": []
+  },
+  {
+    "label": "9. Unimproved Property Appraisal",
+    "subsection": [
+      {
+        "label": "a. Definition",
+        "path": "/II/D/9/a"
+      },
+      {
+        "label": "b. Standard",
+        "path": "/II/D/9/b"
+      },
+      {
+        "label": "c. Required Analysis and Reporting",
+        "path": "/II/D/9/c"
+      }
+    ]
+  },
+  {
+    "label": "10. Update of Appraisal",
+    "path": "/II/D/10",
+    "article": "<p>Appraisers may perform an update of a previously completed appraisal using the Fannie Mae Form 1004D/Freddie Mac Form 442/March 2005 when requested by the Mortgagee.</p><p>The Appraiser must adhere to the Scope of Work and Appraiser's Certification listed on the form, which includes an exterior inspection of the subject Property from, at least, the street; and research, analyze and verify current market data to determine whether the Property has or has not declined in value since the effective date of the appraisal report being updated.</p><p>If the Appraiser concurs with the original appraisal report and determines that the value has not declined, the Appraiser must indicate this on the form, provide any necessary comments, and provide a photo of the front of the subject Property taken from the public street. If the Appraiser does not concur with the original data report or the Property Value has declined, the Appraiser must indicate this on the form and a photo is not required.</p>",
+    "subsection": []
+  },
+  {
+    "label": "11. Market Conditions Addendum, Fannie Mae Form 1004MC/Freddie Mac Form 71",
+    "subsection":[
+      {
+        "label":"a. Standard",
+        "path":"/II/D/11/a"
+      },
+      {
+        "label":"b. Required Analysis and Reporting",
+        "path":"/II/D/11/b"
+      }
+    ]
+  },
+  {
+    "label": "12. Programs and Products",
+    "subsection": [
+      {
+        "label": "a. Section 248 Indian Land Program",
+        "path": "/II/D/12/a"
+      },
+      {
+        "label": "b. Section 247 Hawaiian Home Lands Program",
+        "path": "/II/D/12/b"
+      },
+      {
+        "label": "c. Standard 203(k) and Limited 203(k) Rehabilitation Mortg",
+        "path": "/II/D/12/c"
+      },
+      {
+        "label": "d. Special Energy-Related Building Components",
+        "path": "/II/D/12/d"
+      },
+      {
+        "label": "e. HUD Real Estate Owned Properties",
+        "path": "/II/D/12/e"
+      }
+    ]
+  }
+]

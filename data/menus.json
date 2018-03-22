@@ -1,0 +1,159 @@
+[
+  {
+    "category":"Handbook",
+    "subs": [
+      {
+        "subcategory":"I. Doing Business With FHA",
+        "sections": [
+          {
+            "section":"A. FHA Lenders and Mortgagees",
+            "path": "/I/A"
+          },
+          {
+            "section":"B. Other Participants",
+            "path": "/I/B"
+          }
+        ]
+      },
+      {
+        "subcategory":"II. Origination Through Post-Closing",
+        "sections": [
+          {
+            "section":"A. Title II Forward Mortgages",
+            "path": "/II/A"
+          },
+          {
+            "section":"B. Title II Reverse Mortgages",
+            "path": "/II/B"
+          },
+          {
+            "section":"C. Condominium Project Approvals",
+            "path": "/II/C"
+          },
+          {
+            "section":"D. Appraiser and Property Requirements for Title II Mortgages",
+            "path": "/II/D"
+          },
+          {
+            "section":"E. Title I Insured Programs",
+            "path": "/II/E"
+          },
+          {
+            "section":"F. Appraiser and Property Requirements for Title I",
+            "path": "/II/F"
+          }
+        ]
+      },
+      {
+        "subcategory":"III. Servicing and Loss Mitigation",
+        "sections": [
+          {
+            "section":"A. Title II Forward Mortgages",
+            "path": "/III/A"
+          },
+          {
+            "section":"B. Title II Reverse Mortgages",
+            "path": "/III/B"
+          },
+          {
+            "section":"C. Title I Insured Programs",
+            "path": "/III/C"
+          }
+        ]
+      },
+      {
+        "subcategory":"IV. Claims and Disposition",
+        "sections": [
+          {
+            "section":"A. Title II Claims",
+            "path": "/IV/A"
+
+          },
+          {
+            "section":"B. Title II Disposition",
+            "path": "/IV/B"
+          },
+          {
+            "section":"C. Title I Claims",
+            "path": "/IV/C"
+          },
+          {
+            "section": "D. Title I Disposition",
+            "path": "/IV/D"
+          }
+        ]
+      },
+      {
+        "subcategory":"V. Quality Control",
+        "sections": [
+          {
+            "section":"A. Quality Control of Lenders and Mortgagees",
+            "path": "/V/A"
+          },
+          {
+            "section":"B. Quality Control of Other Participants",
+            "path": "/V/B"
+          },
+          {
+            "section":"C. Mortgagee Monitoring",
+            "path": "/V/C"
+          },
+          {
+            "section":"D. Monitoring of Other Participants",
+            "path": "/V/D"
+          },
+          {
+            "section":"E. Enforcement",
+            "path": "/V/E"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category":"Resources",
+    "subs": [
+      {
+        "subcategory":"Mortgage Letters",
+        "target":"letters"
+      },
+      {
+        "subcategory":"Housing Notices",
+        "target":"notices"
+      },
+      {
+        "subcategory":"FAQ's",
+        "target":"faqs"
+      },
+      {
+        "subcategory":"Glossary",
+        "target":"glossary"
+      },
+      {
+        "subcategory":"Contact Us",
+        "target":"contactus"
+      }
+    ]
+  },
+  {
+    "category":"Settings",
+    "subs": [
+      {
+        "subcategory":"About",
+        "target":"about"
+      },
+      {
+        "subcategory":"Tutorial",
+        "target":"tutorial"
+      },
+      {
+        "subcategory":"Terms of Use",
+        "target":"terms"
+      },
+      {
+        "subcategory":"Privacy Policy",
+        "target":"privacy"
+      }
+    ]
+  }
+]

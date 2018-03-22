@@ -1,0 +1,24 @@
+a.	Property and Sales Condition
+i.	As-Is Condition
+(A)	Definition
+As-Is Condition refers to the condition of a Property without repairs, representations, or warranties.
+(B)	Standard
+HUD markets Properties under the following categories, based on the as-is condition of the Property at the time of listing as determined by one or more evaluation tools, such as an appraisal, Brokers Price Opinion, or Automated Valuation Model:
+•	insurable;
+•	insurable with repair escrow; or
+•	uninsurable.
+ii.	Vacant Lots
+(A)	Definition
+A Vacant Lot is a Property without improvements or Structures.
+(B)	Standard
+HUD may raze Structures or offer the vacant lot for sale where Properties are so damaged that repair by HUD or the buyer is not feasible and where one of the following conditions exist:
+•	the Property has already been unsuccessfully offered for sale in its as-is condition;
+•	a local ordinance or agreement prohibits as-is sales of such Properties; or
+•	the Structure must immediately be razed by HUD to remove a serious public hazard.
+Where there is no immediate need to raze the Property or where it would be otherwise inappropriate to sell the Property as-is, HUD may sell the Property with the requirement that the buyer raze the Structure after sales closing.
+iii.	Held Off Market
+(A)	Definition
+Held Off Market is the status of a HUD REO Property that is unavailable for sale.
+(B)	Standard
+HUD may designate a Property as held off market when a property, title, occupancy, or other condition delays or prohibits HUD’s ability to market or sell the Property.
+Should the adverse condition be resolved, HUD may then list the Property for sale.

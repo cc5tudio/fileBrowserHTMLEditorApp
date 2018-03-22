@@ -1,0 +1,225 @@
+4.	Valuation and Reporting Protocols
+a.	Photograph, Exhibits and Map Requirements
+The Appraiser must include a legible street map showing the location of the subject and each of the comparable properties, including sales, rentals, listings, and other data points utilized. If substantial distance exists between the subject and comparable properties, additional legible maps must be included.
+The Appraiser must include a building sketch showing the GLA, all exterior dimensions of the house, patios, porches, decks, garages, breezeways, and any other attachments or out buildings contributing value. The sketch must show “covered” or “uncovered” to indicate a roof or no roof (such as over a patio). The Appraiser must show the calculations used to arrive at the estimated GLA. The Appraiser must provide an interior sketch or floor plan for Properties exhibiting functional obsolescence attributable to the floor plan design.
+The Appraiser must provide photographs as required in the table below and any additional exterior and interior photographs, reports, studies, analysis, or copies of prior listings in support of the Appraiser’s observation and analysis.
+FHA Minimum Photograph Requirements
+Photograph Exhibit	Minimum Photograph Requirement
+Subject Property Exterior	•	Front and rear at opposite angles to show all sides of the dwelling
+•	Improvements with Contributory Value not captured in the front or rear photograph
+•	Street scene photograph to include a portion of the subject site
+•	For New Construction, include photographs that depict the subject’s grade and drainage
+•	For Proposed Construction, a photograph that shows the grade of the vacant lot
+Subject Property Interior	•	Kitchen, main living area, bathrooms, bedrooms
+•	Any other rooms representing overall condition
+•	Basement, attic, and crawl space
+•	Recent updates, such as restoration, remodeling and renovation
+•	For two- to four-unit Properties, also include photographs of hallways, foyers, laundry rooms and other common areas
+Comparable Sales, Listings, Pending Sales, Rentals, etc. 	•	Front view of each comparable utilized
+•	Photographs taken at an angle to depict both the front and the side when possible
+•	Multiple Listing Service (MLS) photographs are acceptable to exhibit comparable condition at the time of sale. However, Appraisers must include their own photographs as well, to document compliance
+Subject Property Deficiencies	•	Photographs of the deficiency or condition requiring inspection or repair
+Condominium Projects	•	Additional photographs of the common areas and shared amenities of the Condominium Project 
+b.	Intended Use and Intended Users of Appraisal
+The intended use of the appraisal is solely to assist FHA in assessing the risk of the Property securing the FHA-insured Mortgage (24 CFR § 200.145(b)).
+FHA and the Mortgagee are the intended users of the appraisal report.
+The FHA Appraiser does not guarantee that the Property is free from defects. The appraisal establishes the value of the Property for mortgage insurance purposes only.
+c.	Development of the Market Value
+i.	Value Required
+(A)	Definition of Market Value
+Market Value refers to the most probable price which a Property should bring in a competitive and open market under all conditions requisite to a fair sale, the buyer and seller, each acting prudently, knowledgeably and assuming the price is not affected by undue stimulus. Implicit in this definition is the consummation of a sale as of a specified date and the passing of title from seller to buyer under conditions whereby: (1) buyer and seller are typically motivated; (2) both parties are well informed or well advised, and each acting in what they consider their own best interest; (3) a reasonable time is allowed for exposure in the open market; (4) payment is made in terms of cash in U. S. dollars or in terms of financial arrangements comparable thereto; and (5) the price represents the normal consideration for the Property sold unaffected by special or creative financing or Sales Concessions granted by anyone associated with the sale.
+Adjustments to the comparables must be made for special or creative financing or Sales Concessions. No adjustments are necessary for those costs, which are normally paid by sellers as a result of tradition or law in a market area; these costs are readily identifiable since the seller pays these costs in virtually all sales transactions. Special or creative financing adjustments can be made to the comparable Property by comparisons to financing terms offered by a third-party institutional lender that is not already involved in the Property or transaction. Any adjustment should not be calculated on a mechanical dollar for dollar cost of the financing or concession but the dollar amount of any adjustment should approximate the market’s reaction to the financing or concessions based on the Appraiser’s judgment.
+(B)	Standard
+The Appraiser must determine the Market Value of the subject Property. 
+(C)	Required Analysis and Reporting
+The Appraiser must analyze all data researched and collected prior to reporting the value.
+ii.	Appraisal Conditions
+(A)	Definition
+Appraisal Conditions refer to anything the Appraiser requires to occur or be known before the value of conclusion can be considered valid.
+(B)	Standard
+Conclusions about the observed conditions of the Property provide the rationale for the opinion of Market Value.
+The completed appraisal form, together with the required exhibits, constitutes the reporting instrument for FHA-insured Mortgages. Conditions of the Property, mortgage type and the market will determine if the appraisal is to be performed as-is, or if the value opinion needs to be conditioned upon an extraordinary assumption(s), a hypothetical condition(s), subject to an additional inspection, or completion of construction, repairs or alterations.
+(C)	Required Analysis and Reporting
+The Appraiser must state in the appraisal report whether repairs, alterations or inspections are necessary to eliminate conditions threatening the continued use, security, and marketability of the Property.
+The following table illustrates property conditions under which an Appraisal Condition must be made.
+Report Conclusion	Appraisal Condition
+1.	There is/are no repair(s), alteration(s) or inspection condition(s) noted by the Appraiser.
+2.	Establishing the As-Is Value for a 203(k).
+3.	The Property is being recommended for rejection.
+4.	Intended use is for Pre-Foreclosure Sale (PFS) in accordance with 24 CFR § 203.370 or Claims Without Conveyance of Title (CWCOT) @ 24 CFR § 203.368.
+5.	Intended use is for Real Estate Owned (REO) in accordance with 24 CFR § 291.100.	“As-is”
+1.	Proposed Construction where construction has not started.
+2.	Under Construction but not yet complete (less than 90%).
+3.	Certain Section 203(k) Rehabilitation Mortgages depending on scope of work.	“Subject to completion per plans and specifications”
+1.	Repair or Alteration Condition(s) noted by the Appraiser to:
+•	protect the health and safety of the occupants;
+•	protect the security of the Property;
+•	correct physical deficiencies or conditions affecting structural integrity.
+2.	Certain Section 203(k) Rehabilitation Mortgages depending on scope of work.
+3.	Under Construction, more than 90% complete with only minor finish work remaining (buyer preference items e.g., floor coverings, appliances, fixtures, landscaping, etc.). This eliminates the need for plans and specifications.	“Subject to the following repairs or alterations”
+Required inspection(s) to meet HUD’s Minimum Property Requirements and Minimum Property Standards.as noted by the Appraiser.	“Subject to the following required inspection”
+iii.	Valuation Development
+(A)	Standard
+There are three valuation approaches as applied to one-to four-residential unit Properties:
+•	sales comparison approach;
+•	cost approach; and
+•	income approach to value.
+(B)	Required Analysis and Reporting
+The Appraiser must obtain credible and verifiable data to support the application of the three approaches to value.
+The Appraiser must perform a thorough analysis of the characteristics of the market, including the supply of properties that would compete with the subject and the corresponding demand.
+The Appraiser must perform a highest and best use of the Property, using all four tests and report the results of that analysis.
+(C)	FHA Data Requirements for the Subject and Comparable Properties
+The Appraiser must verify the characteristics of the transaction (such as sale price, date, seller concessions, conditions of sale) and the characteristics of the comparable property at the time of sale through reliable data sources.
+The Appraiser must verify transactional data via public records and the parties to the transaction: agents, buyers, sellers, Mortgagees, or other parties with relevant information. If the sale cannot be verified by a party to the transaction, the Appraiser may rely on public records or another verifiable impartial source.
+MLS records and property site visits alone are not acceptable verification sources.
+(D)	Effective Age and Remaining Economic Life
+(1)	Standard
+The effective age reflects the condition of a Property relative to similar competitive properties. The effective age may be greater than, less than, or equal to the actual age. Any significant difference between the actual and effective ages requires an explanation.
+(2)	Required Analysis and Reporting
+The Appraiser must state the remaining economic life as a single number or as a range for all property types, including condominiums. The Appraiser must provide an explanation if the remaining economic life is less than 30 years.
+The Appraiser must apply the appropriate technique to estimate the economic life of the subject and not just report a number without analysis.
+(E)	Approaches to Value
+The Appraiser must consider and attempt all approaches to value and must develop and reconcile each approach that is relevant.
+(1)	Cost Approach to Value
+The Appraiser may use any of the credible and recognized methods to complete the cost approach (unit in place, segregated costs, price per unit, detailed builder’s cost method, or any other credible source that can be duplicated by the reader).
+If the Appraiser uses cost estimates provided by the contractor or builder of the Property, the cost estimates must be reasonable and independently verified.
+(a)	Land Valuation
+(i)	Standard
+If the cost approach is applicable, the Appraiser must estimate the site value. Acceptable methodology used to estimate land value include sales comparison, allocation, and extraction.
+(ii)	Required Analysis and Reporting
+The Appraiser must include a summary of the supporting documentation and analysis in the appraisal. The Appraiser must maintain comparable land sales data and analysis or other supporting information in the Appraiser’s file and include it by reference in the appraisal. For Properties with Excess Land, the Appraiser must include all comparable land sale data and analysis in the report.
+(b)	Estimate of Cost New for Housing
+(i)	Standard
+The Appraiser may use either the replacement cost or the reproduction cost.
+(ii)	Required Analysis and Reporting
+The Appraiser must state the method used and the source of the data.
+The Appraiser must use the current version of a published cost data source recognized by the industry. The Appraiser must report the quality rating selected and utilized, as well as identify the source of the data, and its publication and/or effective date. The Appraiser is expected to be aware of local cost data from builders, contractors, building supply firms, and other building industry participants as a check against the published cost data.
+The Appraiser must also provide a supporting explanation when applying adjustments to the published cost data, such as adjustments for:
+•	transportation and labor in remote areas;
+•	entrepreneurial profit; or
+•	fees and charges unique to the area.
+Instructions for the cost approach as applied to Manufactured Homes are addressed in the FHA Single Family Housing Appraisal Report and Data Delivery Guide - Manufactured Home Appraisal Report.
+(2)	Income Approach to Value for Residential Properties
+(a)	Standard
+The Appraiser should apply the income approach to a Single Family residential Property when there is evidence of recently rented and then sold data pairs.
+The Appraiser must verify if the subject or the comparable rentals and sales are subject to rent control restrictions. If comparable sales do not have rent control restrictions similar to those of the subject, an appropriate adjustment should be applied.
+(b)	Required Analysis and Reporting
+The Appraiser must analyze rental data and provide support for the estimated market rents and adjustments applied to the comparable rentals in the reconciliation of this approach.
+The Appraiser must derive the Gross Rent Multiplier (GRM) factor from market data and support it prior to applying it to the market rent for the subject.
+(3)	Sales Comparison Approach
+(a)	Standard
+The sales comparison approach is required for all appraisals.
+(b)	Required Analysis and Reporting
+The Appraiser must present the data, points of comparison, and analysis; provide support for the Appraiser’s choice of comparable properties, and the adjustments for dissimilarities to the subject; and include sufficient description and explanation to support the facts, analyses and the Appraiser’s conclusion.
+If the data from the market area is insufficient to support some of these requirements, the Appraiser must provide the best information available and include an explanation of the issue, the data available, the conclusions reached and the steps taken by the Appraiser to attempt to meet the guidelines.
+(c)	Comparable Sale Selection
+(i)	Characteristics of the Property
+Comparable sale selection must be based on properties having the same or similar locational characteristics, physical characteristics and the priority the market assigns to each factor, including:
+•	site;
+•	site view;
+•	location;
+•	design;
+•	appeal;
+•	style;
+•	age;
+•	size;
+•	utility;
+•	quality;
+•	condition; and
+•	any other factor that in the Appraiser’s professional judgment is recognized as relevant in the subject market.
+(ii)	Characteristics of the Transaction
+Definition
+An Arm’s Length Transaction refers to a transaction between unrelated parties and meets the requirements of Market Value.
+Standard
+The Appraiser must utilize Arm’s Length Transactions for comparable properties except when there is evidence that REO sales or short sale/Pre-Foreclosure Sale (PFS) transactions are so prevalent that normal Arm’s Length Transactions are not present or supported by the market trend.
+A transaction involving a foreclosure transfer to a mortgagee is not evidence of the Market Value, and is not a valid type of comparable sale for an FHA-insured Mortgage.
+The common types of property transfers listed below require investigation and analysis to ensure that they meet the definition of an Arm’s Length Transaction:
+•	REO sale – transfer from mortgagee to new owner;
+•	short sale/PFS;
+•	estate sale;
+•	court ordered sale;
+•	relocation sale; and
+•	flip transactions.
+Required Analysis and Reporting
+The Appraiser must include as many comparable properties as are necessary to support the Appraiser’s analysis and conclusion. At a minimum, the Appraiser must include the most recent and relevant sales, preferably within the last six months. The Appraiser must include at least three sales that settled no longer than 12 months prior to the effective date of the appraisal. The Appraiser must provide additional support by including more sales, offerings, offerings now under contract, or relevant sales that settled more than 12 months prior to the effective date of the appraisal.
+The Appraiser must analyze the whole market, including when there are a number of sales that may or may not be classified as arm’s length sales or may not be classified as directly similar to the Property.
+(d)	Adjusting Comparable Properties
+(i)	Standard
+Calculation of the Contributory Value includes methods based on the:
+•	direct sales comparison approach;
+•	cost approach; and
+•	income approach.
+(ii)	Required Analysis and Reporting
+The Appraiser must apply all appropriate techniques and methods, conduct an analysis, and report the results. The Appraiser must include the reasoning that supports the analyses, opinions, and conclusions in the report.
+(e)	Comparable Selection in Diverse Real Estate Markets
+(i)	Standard
+Comparable sales should be selected based on similar locational and physical characteristics, not sales price.
+Subdivisions, Condominiums or Planned Unit Development Projects
+Arm’s length resale activity from within the established subdivision, condominium or PUD project is often the best indicator of value.
+(ii)	Required Analysis and Reporting
+The Appraiser must include an analysis of the comparable properties that includes an explanation. The analysis must reflect typical Borrower expectations and behavior.
+Subdivisions, Condominiums or Planned Unit Development Projects
+If the Appraiser uses sales of comparable properties that are located outside of the subject’s subdivision or project, the analysis must reflect typical Borrower expectations and behavior.
+For Properties in new subdivisions, or units in new (or recently converted) Condominium Projects, the Appraiser must include, for comparison, properties in the subject market area as well as properties within the subject subdivision or project. Whenever possible, the Appraiser must select at least one sale from a competing subdivision or project and one sale from within the subject subdivision or project so that this market acceptance may be directly compared. If the new project is mature enough to have experienced arm’s length resales, the Appraiser must also analyze and report those properties.
+(f)	Comparable Sale Selection in Rural and Slow Growth Markets
+If insufficient comparable sales have occurred within the previous six months, the Appraiser must include at least three sales that occurred less than 12 months prior to the date of appraisal.
+Where there is a scarcity of recent comparable sales data, the Appraiser may include sales older than 12 months as additional sales in markets. The Appraiser must report the most recent and relevant sales, and include a thorough explanation of the market conditions, the levels of supply and demand, and a reason for the lack of recent sales data.
+(g)	Sales Concessions
+(i)	Definition
+Sales Concessions refer to non-realty items, upgraded features in newly constructed houses, or special financing incentives.
+(ii)	Standard
+Adjustments are not calculated on a dollar for dollar cost of the financing or Sales Concession. However, the dollar amount of any adjustment should approximate the market’s reaction to the Sales Concessions based on the Appraiser’s analysis of observable and supportable market trends and expectations. The adjustment should reflect the difference between the sales price with the Sales Concessions, and what the Property would have sold for without the concessions under typical market conditions.
+(iii)	Required Analysis and Reporting
+The Appraiser must verify all comparable sales transactions for Sales Concessions and report those findings in the appraisal. The Appraiser must clearly state how and to what extent the sale was verified.  If the sale cannot be verified with someone who has first-hand knowledge of the transaction (buyers, sellers, real estate agents involved in the transaction, or one of their representatives), the Appraiser must report the lack of verification.
+The Appraiser must make market-based adjustments to the comparable sales for any sales or financing concessions that may have affected the sales price. The Sales Concessions of the comparable properties are adjusted to typical market expectations, not to the specific terms or conditions of the sale of the subject. The Appraiser must include an explanation of the effect of the Sales Concessions on the sale price of the comparable.
+(h)	Bracketing
+(i)	Definition
+Bracketing refers to selecting comparable properties with features that are superior to and inferior to the subject features.
+(ii)	Standard
+Comparable properties must be selected based on the principle of substitution, and the analysis will reveal the relevance of that data. Comparable properties should not be chosen only because their prices bracket a desired or estimated value.
+(iii)	Required Analysis and Reporting
+In analyzing the comparable pool to determine the best comparable sales to display and compare in the adjustment grid, the Appraiser must use Bracketing techniques when possible and appropriate.
+(i)	Market Condition (Time) Adjustments
+(i)	Definition
+Market Condition Adjustments refer to adjustments made to reflect value changes in the market between the date of the contract for the comparable sale and the effective date of the appraisal.
+(ii)	Standard
+Within the sales adjustment grid, the potentially comparable properties may be adjusted if they were contracted for sale during a market period different from that of the date of valuation. If a market-to-market (time) adjustment is warranted, it must be applied to the date of contract rather than the date of closing or deed recordation.
+(iii)	Required Analysis and Reporting
+The Appraiser must provide a summary comment and support for all conclusions relating to the trend of the current market.
+(F)	FHA Appraisal Requirements in Changing Markets
+(1)	Standard
+An analysis of market trends for at least the past 12 to 24 months preceding the effective date of the appraisal is necessary in order to establish a benchmark for reporting present market conditions.
+The final conclusion must be based on the reconciliation of all data.
+(a)	Increasing Markets
+In an increasing market, positive Market Condition Adjustments should be applied if there is sufficient proof of the trend from a credible source based on a thorough analysis of specific market trends and as evidenced by a sale and resale comparison.
+(b)	Declining Markets
+Although there is no standard industry definition, for purposes of performing appraisals of Properties that are to be collateral for FHA-insured Mortgages, a Declining Market refers to any neighborhood, market area or region that demonstrates a decline in prices or deterioration in other market conditions as evidenced by an oversupply of existing inventory and extended marketing times. Generally, a trend in the housing market is identifiable when it extends for a period of at least six months or two quarters prior to the effective date of the appraisal.
+In a Declining Market, negative Market Condition Adjustments should be applied if there is sufficient proof of the trend from a credible source based on a thorough analysis of specific market trends and as evidenced by a sale and resale comparison.
+(2)	Required Analysis and Reporting
+The Appraiser must accurately report market conditions and determine when housing trends are increasing, stable or declining. The Appraiser must provide a summary comment as to the continuance of the current trend or if the trend appears to be changing, and provide support for all conclusions. If the Appraiser bases the adjustment on a published source, the Appraiser must include a copy of which must be included in the addendum.
+The Appraiser must include an absorption rate analysis, and at least two comparable sales that closed within 90 Days prior to the effective date of the appraisal. If the Appraiser cannot comply with this requirement due to the lack of market data, a detailed explanation is required.
+The Appraiser must include a minimum of two active listings or pending sales on the appraisal grid (in addition to at least three recently settled sales).
+For active listings or pending sales, the Appraiser must:
+•	ensure they are market tested and have reasonable market exposure to avoid the use of overpriced properties as comparable properties;
+•	use the actual contract purchase price, or, when not available, adjust comparable properties to reflect listing to sale price ratios;
+•	include the original list price, any revised list prices, and calculate the total Days on Market (DOM). The Appraiser must provide an explanation for the DOM that does not approximate periods reported in the “Neighborhood” section of the appraisal reporting form;
+•	reconcile the Adjusted Values of active listings or pending sales with the Adjusted Values of the settled sales provided; and
+•	if the Adjusted Values of the settled comparable properties are higher than the Adjusted Values of the active listings or pending sales, determine if a Market Condition Adjustment is appropriate.
+(G)	Final Reconciliation and Conclusion
+(1)	Definition
+Final Reconciliation refers to the process by which an Appraiser evaluates and selects from among alternative conclusions to reach a final value estimate, and reports the results of the analysis.
+(2)	Standard
+After the approaches to value are completed, the Appraiser must check the data, calculations and conclusions. The Appraiser must reconcile each approach to value, and must reconcile all approaches into a final estimate of value for the Property.
+(3)	Required Analysis and Reporting
+If the appraisal has no conditions, the Appraiser must render an as-is value opinion.
+If the Appraiser must conclude the report under a hypothetical condition or extraordinary assumption, the Appraiser must report the issues and requirements as one of the following:
+•	“subject to completion per plans and specifications on the basis of a hypothetical condition that the improvements have been completed;”
+•	“subject to the following repairs or alterations (list them) on the basis of a hypothetical condition that the repairs or alterations have been completed;” or
+•	“subject to a required inspection based on the extraordinary assumption that the condition or deficiency does not require alteration or repair.”
+(H)	Signature
+(1)	Standard
+The FHA Roster Appraiser must sign the certification of the appraisal and perform all parts of the analysis and reconciliation. Appraiser trainees or licensees may not sign the appraisal report.
+A trainee or licensee may assist in any part of the appraisal, but the opinions and analysis must be performed by the FHA Roster Appraiser. A trainee or licensee may accompany the FHA Roster Appraiser on the observations but may not perform the observations in place of the FHA Roster Appraiser.
+The FHA Roster Appraiser must select the comparable properties and perform all critical analyses contained in the appraisal report as well as the Market Conditions Addendum to the appraisal form. The FHA Roster Appraiser must also inspect the subject Property and at least the exterior of the comparable properties. 
+(2)	Required Analysis and Reporting
+In another appraiser or trainee appraiser provided assistance or participated in the preparation of the appraisal, the FHA Roster Appraiser must disclose the name of the appraiser or trainee appraiser in the report and their role in developing the appraisal.

@@ -1,0 +1,152 @@
+k.	Closing
+i.	Closing Agents
+(A)	Definition
+A Closing Agent is the Entity responsible for conducting the closing of a HUD REO property sales transaction, including submitting closing packages, and wiring sales proceeds to the U.S. Treasury.
+(B)	Standard
+The buyer must select a Closing Agent who meets HUD’s Closing Agent Requirements.
+(1)	Antidiscrimination Laws
+Closing Agents and their employees, or persons or Entities otherwise authorized to act for the Closing Agent, must:
+•	comply with Title VIII of the Civil Rights Act of 1968 (Fair Housing Act, Title VIII, or Public Law 90-284), the Equal Credit Opportunity Act (ECOA), and Executive Order 11063;
+•	not discriminate on the basis of race, color, creed, religion, national origin, sex, age, familial status, disability, marital status, or actual or perceived sexual orientation and gender identity; and
+•	instruct their staffs in the policies of nondiscrimination and all applicable local, state, and federal fair housing and non-discrimination laws.
+(2)	No Conflicts of Interest
+A Closing Agent must not participate in a closing where the Closing Agent’s spouse, children, or business associates have a financial interest in the Property. Financial interest includes having an equity, creditor, mortgage lender, or debtor interest in any corporation, trust, or partnership with a financial interest in the Property.
+(C)	Required Documentation
+The buyer and selling broker must identify the selected Closing Agent as follows:
+•	identify the Closing Agent on Line 9 of form HUD-9548; and
+•	submit the Closing Agent designation form with the sales contract package. The form, at a minimum, must include the following:
+o	the name of the Closing Agent;
+o	the full address of the Closing Agent; and
+o	the telephone number, email address, and contact person.
+The Closing Agent must sign and certify in the Closing Instructions and Certification that they meet HUD’s requirements and will adhere to HUD’s Closing Instructions.
+(D)	Closing Agent Fee
+The buyer is primarily responsible for any and all Closing Agent and closing fees, up to the maximum allowed per state law and regulatory requirements.
+The buyer may apply amounts listed on Line 5 of form HUD-9548 for payment of closing fees.
+ii.	Time Frame for Closing
+The time frame for closing is specified in Line 9 of form HUD-9548. The Closing Agent must schedule a firm Closing Date within the time frame set by the AM. The AM will identify the time frame for closing in Line 9 of form HUD-9548 as follows:
+•	for cash sales, within 30 Days of contract ratification;
+•	for sales involving mortgage financing, within 45 Days of contract ratification; and
+•	for sales involving a 203(k) product, within 60 Days of contract ratification.
+(A)	Requests for Extensions
+If scheduled Closing Dates cannot be met, the selling broker or buyer may request extensions of the closing time from the AM before the expiration of the sales contract by:
+•	submitting the request for an extension in writing; and
+•	if applicable, including an extension fee for the full amount of the requested 15-Day extension, in the form of certified funds payable to HUD.
+The AM will grant extensions in 15-Day increments on a case-by-case basis when extenuating circumstances preclude the buyer from closing as scheduled.
+(1)	Fees for Extensions
+The AM may assess a daily fee for initial or repeat sales contract extensions as follows:
+•	for a sales price of $25,000 or less, the extension fee is $10 per Day;
+•	for a sales price of $25,001 to $50,000, the extension fee is a minimum of $10 per Day and a maximum of $15 per Day; and
+•	for a sales price over $50,000, the extension fee is a minimum of $10 per Day with a maximum of $25 per Day.
+(2)	No Cost Extensions
+The AM will grant extensions at no cost to the buyer if the delay is due to HUD, HUD’s contractors, or a title defect.
+The AM will also grant an initial extension to Owner-Occupant Buyers who demonstrate that:
+•	the buyer made a proper and timely loan application;
+•	the buyer is not responsible for the delay in closing; and
+•	mortgage approval is imminent.
+If approved, the AM will grant a 30-Day extension for Section 203(k) transactions or a 15-Day extension for all other transactions.
+(3)	Application of Extension Fee
+If the sale closes before the expiration of the extension, the extension fee will be applied to the amount due from the buyer and the buyer will be credited with any unused portion of the fee, computed on a daily basis.
+(B)	Notification from HUD on Extension
+The AM will notify the selling broker of the approval or denial of the extension request. The selling broker must place a copy of the approval or denial in the property file.
+(C)	Closing Time Frame Lapsed
+When closing does not occur as scheduled and the buyer has not requested and received an extension of time to close, the AM will cancel the sales contract.
+iii.	Commissions
+(A)	Standard
+For sales to buyers other than Governmental Entities or HUD-approved Nonprofits, HUD will pay commission to listing brokers and selling brokers as follows, based on averages for the area and depending on the level of service provided to HUD and on value and market conditions. The selling broker may contact the listing broker for transaction-specific commission amounts.
+(1)	Commission Amounts
+(a)	Minimum Commission
+HUD will pay commissions not less than:
+•	$200 each for the listing broker and selling broker for sales of vacant lots; and
+•	$500 each for the listing broker and selling broker for all other sales.
+(b)	Maximum Commission
+For sales of vacant lots, HUD will pay commissions totaling not more than 10 percent of the bid price.
+For all other sales, HUD will pay commissions totaling not more than 6 percent of the bid price.
+(c)	Hard-to-Sell Properties
+For sales of Properties designated as hard-to-sell, HUD will pay up to a total sales commission of $2,000, to be split between the listing broker and selling broker.
+(2)	Split of Sales Commission
+Listing brokers and selling brokers will split sales commissions. The selling broker’s acceptance of a lower commission does not affect the amount the listing broker will receive.
+(3)	Calculating Commission on Discounted Sales
+For discounted sales to buyers other than Governmental Entities or HUD-approved Nonprofits, the listing broker and selling broker may calculate commission based on the bid price before any discounts are deducted.
+(B)	Required Documentation
+The listing broker and selling broker must enter on form HUD-9548 the actual commissions to be paid.
+iv.	Closing Costs
+(A)	Costs Automatically Paid by HUD
+HUD will pay the following closing costs:
+•	proration of property taxes and any special assessments such as Homeowners’ Association (HOA) fees and utility bills;
+•	condominium or HOA transfer fee, if applicable;
+•	the cost to provide condominium documents to the buyer;
+•	the repair escrow inspection fee of $200, if applicable;
+•	recording fees and charges for the deed;
+•	the overnight mailing fee for the final Closing Disclosure or similar legal document, signed by the buyers and the Closing Agent, and sent to the AM contractor; and
+•	state and local transfer taxes that are reasonable and customary in the jurisdiction where the Property is located.
+For closing costs claimed on discount sales to Governmental Entities and HUD-approved Nonprofits, HUD will deduct any closing costs paid from the total discount amount.
+(B)	Other Financing and Closing Costs for Properties in Competitive Sales
+(1)	Standard
+For Properties sold in competitive sales and not in GNND transactions, HUD will pay the buyer’s actual financing and closing costs in an amount up to 3 percent of the Property’s gross purchase price, provided that the costs are reasonable and customary in the jurisdiction where the Property is located. The gross purchase price is the bid price before any subtractions requested by the buyer for financing and closing costs, and the broker’s sales commission.
+HUD will retain any Line 5 funds not used at closing.
+(2)	Required Documentation
+The buyer must identify on Line 5 of form HUD-9548 their requested financing and closing costs.
+v.	Closing Process
+(A)	Closing Agent Assignments
+The AM will provide the Closing Agent with the following items:
+•	fully ratified sales contract and addenda;
+•	title evidence (when available);
+•	wire instructions;
+•	pre-closing and post-closing instructions;
+•	HOA documents, if applicable;
+•	all outstanding property bills; and
+•	any other documentation deemed necessary by the GTR.
+The AM will provide these documents within two business days of the AM’s ratification of the sales contract, the issuance of the HUD-issued Title Identification (ID) Number, or, for ACA sales, receipt of the fully executed Notice of Acquisition from the ACA participant.
+(B)	Pre-Closing Package
+(1)	Definition
+The Pre-Closing package is the documentation, including the Settlement, deeds, and supporting documentation, of a HUD REO Property Sale that is submitted before closing to the AM for review. 
+(2)	Standard
+The Closing Agent must upload into P260 and send to the AM a pre-closing package no later than five business days before closing. 
+(a)	Closing Disclosure
+The Closing Agent must accurately prepare the preliminary Closing Disclosure or similar legal document and provide it to the AM for their review and approval.
+(b)	Deed
+The Closing Agent must prepare a special warranty or grant deed, where applicable, and provide the deed to the AM for their review and execution.
+(3)	Required Documentation
+The pre-closing package must include the following documents:
+•	the Closing Disclosure or similar legal document and signature affidavits:
+o	If the buyer has obtained new FHA financing, the Closing Agent must ensure that the FHA case number is listed on Line 8; or
+o	If the buyer has not obtained new FHA financing, the Closing Agent must ensure that the previous FHA case number associated with that Property is listed in the “Seller Name” block of the Closing Disclosure or similar legal document;
+•	the deed prepared by Closing Agent;
+•	supporting documentation of any charges to HUD on the Closing Disclosure or similar legal document, such as past due bills for utilities or HOAs;
+•	recent tax documentation from the county;
+•	mortgagee documents itemizing all costs to be paid by HUD;
+•	copies of the extension fee payment, if applicable;
+•	the seller’s affidavit, if applicable;
+•	Closing Agent contact information; and
+•	a signed copy of the Closing Instructions.
+(C)	HUD Review of Pre-Closing Package
+The Closing Agent must ensure that sales documents are prepared accurately and promptly remitted to HUD’s AM contractor for review.
+The AM will review the pre-closing package prepared by the Closing Agent. If approved, the AM will return the Closing Disclosure or similar legal document and overnight the original, signed deed to the Closing Agent before closing.
+(D)	Notification to HUD of Closing
+The Closing Agent must notify the AM on the same Day as the closing of the transaction.
+(E)	Deposit of Sales Proceeds
+No later than one business day after closing, the Closing Agent must deposit the sales proceeds and initiate the request for wire transfer of the full amount of sales proceeds due HUD. The Closing Agent must include the FHA case number on the wire transfer request.
+(F)	Delivery of Deed for Recording
+No later than one business day after closing, the Closing Agent must deliver the deed for recording and must notify the taxing authority and HOA, if applicable, that title has changed to a new owner.
+(G)	Final Closing Package
+(1)	Definition
+The Final Closing Package is the documentation, including the final Closing Disclosure or similar legal document and other supporting documentation, which is provided to the AM after a HUD REO Property sale closing.
+(2)	Standard
+Within two business days of closing, the Closing Agent must upload into P260 and mail to the AM a Final Closing Package including all of the following:
+•	all pages of the Closing Instructions and certifications;
+•	the final Closing Disclosure or similar legal document and all signed certifications;
+•	evidence the deed was delivered for recordation or a recorded copy;
+•	a copy of the wire confirmation proceeds transfer to the U.S. Treasury;
+•	a copy of form SAMS-1103, Request to Wire Transfer Funds;
+•	a copy of all applicable invoices or receipts of Disbursements; and
+•	a copy of the disbursement log accounting for all incoming and outgoing funds related to the transaction.
+(3)	GNND Additions to Final Closing Package
+No later than five business days after closing, the Closing Agent must also send to the AM the following:
+•	the original Note;
+•	a copy of the Mortgage with evidence that it was delivered for recording; and
+•	a copy of the recorded Mortgage, when available.
+(H)	Canceled Closings
+To cancel the sales contract after ratification by HUD, the buyer or selling broker must contact the AM and complete any required cancellation documentation provided by the AM.
+The Closing Agent must send to the AM the signed deed and any extension fees in their possession.
+The AM will ensure the return of the signed deed and forfeited extension fees, if any, to HUD.
+The AM may offer the Property to back-up bidders before relisting the Property.

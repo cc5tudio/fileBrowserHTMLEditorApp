@@ -1,0 +1,7 @@
+b.	List Price
+i.	Definition
+List Price is the “asking price” of a Property based on Market Value.
+ii.	Standard
+HUD will offer a Property for sale at the list price based on Market Value, reflecting the highest and best use in the current market, competitive with Properties being offered by other sellers.
+The AM will monitor assigned transactions to ensure that Properties are valued and sold in a manner in accordance with market conditions.
+For vacant lots, HUD will offer the lots at the estimated Market Value of the lot based on comparable vacant lot prices, considering highest and best use.

@@ -1,0 +1,104 @@
+a.	Actions and Sanctions Against Mortgagees
+i.	Probation of Title II Direct Endorsement Authority
+FHA may place a Mortgagee on DE probation for a specified period of time for the purpose of evaluating the Mortgagee’s compliance with the requirements of the DE Program. The scope of the probation depends upon the seriousness of the problems and deficiencies exhibited by the Mortgagee. For additional information on this authority, see 24 CFR § 203.3(d)(1). This action is separate and apart from probation imposed by the MRB.
+(A)	Scope
+(1)	Training
+The Mortgagee’s underwriter, or other technical staff, may be required to attend training sessions, as appropriate.
+(2)	Title II Loan Reviews
+FHA may increase the percentage of the Mortgagee’s cases subject to Title II loan reviews.
+(3)	Mortgagee Audit and Monitoring Review
+FHA may require the Mortgagee to perform a review or audit of its underwriting processes, or to hire an independent third party to assess the Mortgagee’s operational controls and systems, and report the results to FHA. FHA may also conduct an on-site monitoring review of the Mortgagee.
+(4)	Quality Control Plan
+FHA may require the Mortgagee to make changes to its QC Plan.
+(5)	Pre-Closing Review Status
+FHA may place a Mortgagee back in pre-closing review status and subject the Mortgagee’s cases to technical underwriting reviews and Firm Commitment processing prior to endorsement (see Supplemental Mortgagee Authorities).
+(a)	Time Frame
+Pre-closing review status continues until the Mortgagee corrects its underwriting deficiencies or until the Mortgagee’s DE approval is withdrawn.
+(b)	Cause
+A return to pre-closing status may result from, but is not limited to, the following circumstances:
+•	final Title II loan review results that demonstrate a Mortgagee’s failure to follow FHA requirements;
+•	a pattern of fraud identified by FHA, of which the Mortgagee was aware, or should have been aware; or
+•	the results of on-site or other reviews of the Mortgagee.
+(6)	Additional Elements
+FHA may impose additional elements of probation reasonably related to the Mortgagee’s underlying violations that allow FHA to monitor the Mortgagee and assist FHA with bringing the Mortgagee into compliance with FHA regulations.
+(B)	Notice
+FHA will send a written notice of probation to the Mortgagee. The probation notice will list the violations that precipitated the probation and explain the elements being applied to the Mortgagee’s probation.
+(C)	Effective Date
+Probation is effective immediately upon the receipt of the notice of probation by the Mortgagee.
+ii.	Withdrawal of Title II Direct Endorsement Authority
+FHA may withdraw the DE authority of any Mortgagee that demonstrates a pattern or practice of failing to comply with FHA underwriting guidelines or program requirements. This action is separate and apart from the termination action described in the Credit Watch Termination section.
+(A)	Scope
+FHA may terminate a Mortgagee’s approval to participate in the DE Program in a particular jurisdiction or on a nationwide basis.
+(B)	Notice and Appeal
+FHA will provide the Mortgagee with written notice of the proposed withdrawal that identifies the grounds for the action and advises the Mortgagee of its right to an informal conference.
+(1)	Informal Conference
+FHA will expeditiously arrange for a conference where the Mortgagee may present information and argument in opposition to the proposed withdrawal. The Mortgagee may be represented by counsel.
+(2)	Determination
+After consideration of the material presented, FHA will issue a decision in writing stating whether the proposed termination is rescinded, modified, or affirmed.
+(3)	Appeal and Final Agency Action
+The Mortgagee may appeal the decision to the Deputy Assistant Secretary (DAS) for Single Family Housing or his or her designee. A decision by the DAS for Single Family Housing or his or her designee constitutes final agency action.
+iii.	Credit Watch Termination of Title II Mortgagees
+HUD may terminate a Mortgagee’s authority to originate or underwrite FHA-insured Single Family Mortgages in any geographic area where the Mortgagee has an excessive rate of early defaults and claims in accordance with the Credit Watch Termination regulations at 24 CFR § 202.3(c)(2). Credit Watch Termination is separate and apart from any action that may be taken by the MRB.
+(A)	Frequency and Scope
+FHA reviews the default and claim rate of FHA-insured Single Family Mortgages on a quarterly basis. FHA compares the rate of each participating Mortgagee with the rates of other Mortgagees in the same geographic area. The review is limited to Mortgages with an amortization date within the preceding 24 months.
+(B)	Cause
+FHA may terminate the origination or underwriting authority of any Mortgagee whose default and claim rate exceeds both the national default and claim rate and 200 percent of the default and claim rate within the geographic area served by a HUD field office.
+(C)	Notice and Appeal
+FHA will issue a Proposed Credit Watch Termination Notice to the Mortgagee prior to terminating the Mortgagee’s approval. The Mortgagee may appeal the proposed termination by submitting a written request for an informal conference with the DAS for Single Family Housing or its designee within 30 Days of receipt of the Notice.
+(1)	Informal Conference
+The Mortgagee or its representative may make an oral and/or written presentation to oppose the proposed termination. FHA will only consider presentations that specifically address relevant mitigating factors and present facts and circumstances to explain the Mortgagee’s poor performance.
+(2)	Mitigating Factors
+FHA will consider relevant mitigating factors in deciding whether to terminate a Mortgagee’s origination and/or underwriting authority. 
+(3)	Determination
+After the informal conference, FHA will make a determination whether to sustain or withdraw the termination. FHA will notify the Mortgagee of its decision in writing via a Final Notice of Determination. If sustained, the termination will not take effect until the Mortgagee receives the Final Notice.
+(4)	Waiver of Appeal
+If a Mortgagee does not request an informal conference within 30 Days of receiving the Proposed Credit Watch Termination Notice, the Mortgagee has waived its appeal and its authority will be terminated 60 Days from the date of the Proposed Credit Watch Termination Notice without further notice from HUD.
+(D)	Effect of Termination
+A Mortgagee whose authority has been terminated under Credit Watch is prohibited from originating or underwriting FHA-insured Single Family Mortgages within the area of the HUD field office(s) listed in the Notice. The Mortgagee’s general FHA approval and supplemental authorities (see Supplemental Mortgagee Authorities) remain unaffected.
+(1)	Case Status
+(a)	Definition
+An Approved Mortgage is a Mortgage underwritten and approved by a DE underwriter, or covered by a Firm Commitment issued by HUD.
+(b)	Standard
+During the period of credit watch termination, FHA will not endorse any Mortgage originated by the Mortgagee, unless prior to the date of termination a Firm Commitment has been issued by HUD relating to any such Mortgage or a Direct Endorsement (DE) underwriter approved the Mortgage.
+Mortgages that closed or were approved before the termination became effective may be endorsed. Cases at earlier stages of processing cannot be submitted for insurance by the terminated Mortgagee. However, the cases may be transferred for completion of processing and underwriting to another Mortgagee authorized to underwrite FHA-insured Mortgages in that area.
+(2)	Public Notice
+HUD will publish a list of Mortgagees who have had their authority terminated in the Federal Register and on HUD’s website with a general explanation of the cause and effect of the termination.
+(E)	Reinstatement
+(1)	Waiting Period
+A terminated Mortgagee may request to have its authority reinstated no earlier than six months after the effective date of the termination.
+(2)	Independent Review
+The Mortgagee must obtain an independent review of the terminated area’s operation and mortgage origination or underwriting, specifically including the FHA-insured Mortgages cited in the termination notice. The analysis must identify the underlying cause for the Mortgagee’s high default and claim rate. The review must be conducted and issued by an independent Certified Public Accountant (CPA) qualified to perform audits under Government Auditing Standards as set forth by the General Accounting Office.
+(3)	Corrective Action Plan
+The Mortgagee must submit a corrective action plan to address each of the issues identified in the CPA’s report, along with evidence that the plan has been implemented. FHA reserves the right to impose additional requirements for reinstatement.
+(4)	Application for Reinstatement
+The application for reinstatement must be submitted through the Lender Electronic Assessment Portal (LEAP). The application must be accompanied by the CPA’s report and the corrective action plan.
+iv.	Suspension or Termination of Title II Lender Insurance Authority
+(A)	Definition
+The Lender Insurance (LI) Compare Ratio is the percentage of Mortgages underwritten by the Mortgagee that are in claim or default status compared with the percentage of Mortgages in claim or default status for all Mortgagees operating in the same state(s) over the preceding two-year period.
+(B)	Scope
+FHA monitors Mortgagees participating in the LI program whose LI Compare Ratios exceed 150 percent.
+(C)	Cause
+FHA may immediately terminate or temporarily suspend a Mortgagee’s LI authority for any cause set forth in 24 CFR § 203.4(d).
+(D)	Notice and Appeal
+FHA will provide written notice to any Mortgagee whose LI authority has been suspended or terminated. Mortgagees may appeal the suspension or termination by requesting an informal conference with the DAS for Single Family Housing or its designee.
+(1)	Informal Conference
+The suspension or termination letter will provide the address to where the request for an informal conference may be sent, and the time frame for the informal conference. The informal conference must be requested in writing within 30 Days of the notice of suspension or termination.
+(2)	Determination
+The DAS or the designee will issue a decision in writing after the informal conference to either affirm the suspension or termination, or reinstate the Mortgagee’s LI authority. This decision represents a final agency action pursuant to section 256(d) of the National Housing Act (12 U.S.C. § 1715z-21(d)) and is not subject to further appeal or judicial review.
+(3)	Waiver of Appeal
+If a Mortgagee does not request an informal conference within 30 Days of receiving the suspension or termination letter, the Mortgagee has waived its right to appeal.
+(E)	Effective Date
+The suspension or termination of the Mortgagee’s LI authority is effective immediately upon the receipt of the notice by the Mortgagee.
+(F)	Effect of Suspension or Termination
+A Mortgagee must submit every case binder to HUD for a pre-endorsement review and endorsement consideration.
+A Mortgagee’s DE authority is not affected by the suspension or termination of its LI authority. Mortgagees who have had their LI authority suspended or terminated may continue to underwrite and close FHA Mortgages without prior review by HUD.
+(G)	Reinstatement
+(1)	Waiting Period
+A Mortgagee whose LI authority has been terminated is prohibited from applying for reinstatement of its LI authority for six months from the date of termination. 
+(2)	Claim and Default Rate
+At the time of the application for reinstatement, the Mortgagee must have unconditional DE authority and a two-year claim and default rate that does not exceed 150 percent of the aggregate claim and default rate for the states in which it underwrote Mortgages.
+(3)	Application for Reinstatement
+Applications for reinstatement of LI authority must be submitted to FHA through LEAP. The application must include:
+•	a copy of the Acknowledgment of Terms and Conditions for LI page from FHAC signed by an authorized official registered with HUD;
+•	a corrective action plan identifying the changes in internal policies and procedures that address the issues that resulted in the termination of LI authority; and
+•	documentation evidencing that the Mortgagee has implemented the corrective action plan.

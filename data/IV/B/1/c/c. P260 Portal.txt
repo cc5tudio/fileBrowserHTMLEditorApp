@@ -1,0 +1,6 @@
+c.	P260 Portal
+i.	Definition
+P260 is HUD’s web-based portal for submitting requests and documentation relating to Property Preservation and Protection (P&P), conveyance, and disposition activities.
+ii.	Standard
+HUD-approved Mortgagees and M&M contractors must use P260 or its successor system to report and upload documentation for activities related to the Property.
+HUD expects FHA Roster Appraisers, HUD-Registered Real Estate Brokers, and Closing Agents to use P260 to fulfill their documentation submission requirements. 

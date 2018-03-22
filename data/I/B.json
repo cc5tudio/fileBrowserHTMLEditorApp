@@ -1,0 +1,116 @@
+[
+  {
+    "label": "1. Appraisers",
+    "subsection": [
+      {
+        "label": "a. FHA Appraiser Roster",
+        "path": "/I/B/1/a"
+      },
+      {
+        "label": "b. Application and Approval Process",
+        "path": "/I/B/1/b"
+      },
+      {
+        "label": "c. Renewal",
+        "path": "/I/B/1/c"
+      },
+      {
+        "label": "d. Post-Approval Requirements",
+        "path": "/I/B/1/d"
+      }
+    ]
+  },
+  {
+    "label": "2. 203(k) Consultants",
+    "subsection": [
+      {
+        "label": "a. 203(k) Consultant Roster",
+        "path": "/I/B/2/a"
+      },
+      {
+        "label": "b. Application and Approval Process",
+        "path": "/I/B/2/b"
+      }
+    ]
+  },
+  {
+    "label": "3. Direct Endorsement Underwriters",
+    "subsection": [
+      {
+        "label": "a. Program Overview",
+        "path": "/I/B/3/a"
+      },
+      {
+        "label": "b. DE Underwriter Eligibility",
+        "path": "/I/B/3/b"
+      },
+      {
+        "label": "c. Mortgagee’s Approval Process",
+        "path": "/I/B/3/c"
+      },
+      {
+        "label": "d. Post-Approval Requirements",
+        "path": "/I/B/3/d"
+      }
+    ]
+  },
+  {
+    "label": "4. Nonprofits and Governmental Entities",
+    "subsection": [
+      {
+        "label": "a. Program Overview",
+        "path": "/I/B/4/a"
+      },
+      {
+        "label": "b. Application and Approval Process",
+        "path": "/I/B/4/b"
+      },
+      {
+        "label": "c. Post-Approval Requirements",
+        "path": "/I/B/4/c"
+      }
+    ]
+  },
+  {
+    "label": "5. Real Estate Brokers",
+    "subsection": [
+      {
+        "label": "a. Definition",
+        "path": "/I/B/5/a"
+      },
+      {
+        "label": "b. Requirements",
+        "path": "/I/B/5/b"
+      },
+      {
+        "label": "c. Application and Registration Process",
+        "path": "/I/B/5/c"
+      },
+      {
+        "label": "d. Annual Recertification",
+        "path": "/I/B/5/d"
+      }
+    ]
+  },
+  {
+    "label": "6. Closing Agents",
+    "subsection": [
+      {
+        "label": "a. Requirements",
+        "path": "/I/B/6/a"
+      },
+      {
+        "label": "b. Application and Approval Process",
+        "path": "/I/B/6/b"
+      }
+    ]
+  },
+  {
+    "label": "7. Additional Other Participants",
+    "subsection": [
+      {
+        "label":"RESERVED FOR FUTURE USE"
+      }
+    ]
+  }
+]

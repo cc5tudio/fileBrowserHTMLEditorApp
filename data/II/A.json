@@ -1,0 +1,262 @@
+[
+  {
+    "description": "<p><em>Effective for case numbers assigned on or after September 14, 2015</em></p><p>The Title II Insured Housing Programs Forward Mortgages, Origination through Post-Closing/Endorsement section in this FHA Single Family Housing Policy Handbook (SF Handbook) provides the origination, underwriting, closing, post-closing, and endorsement standards and procedures applicable to all Single Family (one- to four-units) Mortgages insured under Title II of the National Housing Act, except for Home Equity Conversion Mortgages (HECM). The Mortgagee must fully comply with all of the following standards and procedures in originating, underwriting, and closing for obtaining Federal Housing Administration (FHA) mortgage insurance on a Mortgage. If there are any exceptions or program-specific standards or procedures that differ from those set forth below, the exceptions or alternative program or product specific standards and procedures are explicitly stated. Terms and acronyms used in this SF Handbook have their meanings defined in the Glossary and Acronyms and in the specific section of the SF Handbook in which the definitions are located.</p>",
+    "label": "1. Origination/Processing",
+    "subsection": [
+      {
+        "label": "a. Applications and Disclosures",
+        "path": "/II/A/1/a"
+      },
+      {
+        "label": "b. General Mortgage Insurance Eligibility",
+        "path": "/II/A/1/b"
+      }
+    ]
+  },
+  {
+    "label": "2. Allowable Mortgage Parameters",
+    "subsection": [
+      {
+        "label": "a. Maximum Mortgage Amounts",
+        "path": "/II/A/2/a"
+      },
+      {
+        "label": "b. Loan-to-Value Limits",
+        "path": "/II/A/2/b"
+      },
+      {
+        "label": "c. Required Investment",
+        "path": "/II/A/2/c"
+      },
+      {
+        "label": "d. Maximum Mortgage Term",
+        "path": "/II/A/2/d"
+      },
+      {
+        "label": "e. Mortgage Insurance Premiums",
+        "path": "/II/A/2/e"
+      }
+    ]
+  },
+  {
+    "label": "3. Underwriting the Property",
+    "article": "<p>The Mortgagee must underwrite the completed appraisal report to determine if the Property provides sufficient collateral for the FHA-insured Mortgage. The appraisal and Property must comply with the requirements in Appraiser and Property Requirements for Title II Forward and Reverse Mortgages. The appraisal must be reported in accordance with Acceptable Appraisal Reporting Forms and Protocols.</p>",
+    "subsection": [
+      {
+        "label": "a. Property Acceptability Criteria",
+        "path": "/II/A/3/a"
+      },
+      {
+        "label": "b. Required Documentation for Underwriting the Property",
+        "path": "/II/A/3/b"
+      },
+      {
+        "label": "c. Conditional Commitment Direct Endorsement Statement of Appraised Value",
+        "path": "/II/A/3/c"
+      }
+    ]
+  },
+  {
+    "label": "4. Underwriting the Borrower Using the TOTAL Mortgage Scorecard (TOTAL)",
+    "subsection": [
+      {
+        "label": "a. Underwriting with an Automated Under",
+        "path": "/II/A/4/a"
+      },
+      {
+        "label": "b. Credit Requirements (TOTAL)",
+        "path": "/II/A/4/b"
+      },
+      {
+        "label": "c. Income Requirements (TOTAL)",
+        "path": "/II/A/4/c"
+      },
+      {
+        "label": "d. Asset Requirements (TOTAL)",
+        "path": "/II/A/4/d"
+      },
+      {
+        "label": "e. Final Underwriting Decision (TOTAL)",
+        "path": "/II/A/4/e"
+      }
+    ]
+  },
+  {
+    "label": "5. Manual Underwriting of the Borrower",
+    "article": "<p>The Mortgagee must manually underwrite those applications where the AUS issues a Refer or applications which were downgraded to a manual underwrite.</p><p>If a Mortgage receiving the AUS Refer or downgrade to manual processing involves a HUD employee, the Mortgagee must underwrite the transaction in accordance with the guidance in this Manual Underwriting section. The Mortgagee must submit the underwritten mortgage application to the Processing and Underwriting Division Director at the Jurisdictional HOC for final underwriting approval.</p>",
+    "subsection": [
+      {
+        "label": "a. Credit Requirements (Manual)",
+        "path": "/II/A/5/a"
+      },
+      {
+        "label": "b. Income Requirements (Manual)",
+        "path": "/II/A/5/b"
+      },
+      {
+        "label": "c. Asset Requirements (Manual)",
+        "path": "/II/A/5/c"
+      },
+      {
+        "label": "d. Final Underwriting Decision (Manual)",
+        "path": "/II/A/5/d"
+      }
+    ]
+  },
+  {
+    "label": "6. Closing",
+    "subsection": [
+      {
+        "label": "a. Mortgagee Closing Requirements",
+        "path": "/II/A/6/a"
+      },
+      {
+        "label": "b. Mortgage and Note",
+        "path": "/II/A/6/b"
+      },
+      {
+        "label": "c. Disbursement of Mortgage Proceeds",
+        "path": "/II/A/6/c"
+      }
+    ]
+  },
+  {
+    "label": "7. Post-Closing and Endorsement",
+    "subsection": [
+      {
+        "label": "a. Pre-Endorsement Review",
+        "path": "/II/A/7/a"
+      },
+      {
+        "label": "b. Mortgagee Pre-Endorsement Review Requirements",
+        "path": "/II/A/7/b"
+      },
+      {
+        "label": "c. Inspection and Repair Escrow Requirements for Mortgages Pending Closing or E",
+        "path": "/II/A/7/c"
+      },
+      {
+        "label": "d. Procedures for Endorsement",
+        "path": "/II/A/7/d"
+      },
+      {
+        "label": "e. Endorsement and Post-Endorsement",
+        "path": "/II/A/7/e"
+      }
+    ]
+  },
+  {
+    "label": "8. Programs and Products",
+    "subsection": [
+      {
+        "label": "a. 203(k) Rehabilitation Mortgage Insurance Program",
+        "path": "/II/A/8/a"
+      },
+      {
+        "label": "b. Disasters and 203(h) Mortgage Insurance for Disaster Victims",
+        "path": "/II/A/8/b"
+      },
+      {
+        "label": "c. Energy Efficient Mortgages",
+        "path": "/II/A/8/c"
+      },
+      {
+        "label": "d. Refinances",
+        "path": "/II/A/8/d"
+      },
+      {
+        "label": "e. Refinance of Borrowers in Negative Equity Positions Program (Short Refi)",
+        "path": "/II/A/8/e"
+      },
+      {
+        "label": "f. Section 251 Adjustable Rate Mortgages",
+        "path": "/II/A/8/f"
+      },
+      {
+        "label": "g. Section 248 Mortgages on Indian Land",
+        "path": "/II/A/8/g"
+      },
+      {
+        "label": "h. Section 247 Single Family Mortgage Insurance on Hawaiian Home Lands",
+        "path": "/II/A/8/h"
+      },
+      {
+        "label": "i. New Construction",
+        "path": "/II/A/8/i"
+      },
+      {
+        "label": "j. Construction to Permanent",
+        "path": "/II/A/8/j"
+      },
+      {
+        "label": "k. Building on Own Land",
+        "path": "/II/A/8/k"
+      },
+      {
+        "label": "l. Weatherization",
+        "path": "/II/A/8/l"
+      },
+      {
+        "label": "m. Solar and Wind Technologies",
+        "path": "/II/A/8/m"
+      },
+      {
+        "label": "n. Assumptions",
+        "path": "/II/A/8/n"
+      },
+      {
+        "label": "o. HUD Real Estate Owned Purchasing",
+        "path": "/II/A/8/o"
+      }
+    ]
+  },
+  {
+    "label": "9. 203(k) Consultant Requirements",
+    "subsection": [
+      {
+        "label": "a. Overview",
+        "path": "/II/A/9/a"
+      },
+      {
+        "label": "b. Consultant Duties",
+        "path": "/II/A/9/b"
+      },
+      {
+        "label": "c. Consultant Fee Schedule",
+        "path": "/II/A/9/c"
+      },
+      {
+        "label": "d. Improvements Standards",
+        "path": "/II/A/9/d"
+      },
+      {
+        "label": "e. Consultant 35 Point Checklist",
+        "path": "/II/A/9/e"
+      },
+      {
+        "label": "f. Architectural Exhibit Review",
+        "path": "/II/A/9/f"
+      },
+      {
+        "label": "g. Preparing the Work Write-Up and Cost Estimate",
+        "path": "/II/A/9/g"
+      },
+      {
+        "label": "h. Feasibility Study",
+        "path": "/II/A/9/h"
+      },
+      {
+        "label": "i. Draw Request Inspection",
+        "path": "/II/A/9/i"
+      },
+      {
+        "label": "j. Change Order",
+        "path": "/II/A/9/j"
+      },
+      {
+        "label": "k. Additional Required Documentation",
+        "path": "/II/A/9/k"
+      }
+    ]
+  }
+]

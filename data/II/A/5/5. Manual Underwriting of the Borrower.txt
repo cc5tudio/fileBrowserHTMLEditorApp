@@ -1,0 +1,3 @@
+5.	Manual Underwriting of the Borrower
+The Mortgagee must manually underwrite those applications where the AUS issues a Refer or applications which were downgraded to a manual underwrite.
+If a Mortgage receiving the AUS Refer or downgrade to manual processing involves a HUD employee, the Mortgagee must underwrite the transaction in accordance with the guidance in this Manual Underwriting section. The Mortgagee must submit the underwritten mortgage application to the Processing and Underwriting Division Director at the Jurisdictional HOC for final underwriting approval.
